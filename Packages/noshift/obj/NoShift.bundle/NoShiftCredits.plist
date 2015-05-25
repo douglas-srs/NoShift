@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>footerText</key>
+      <string>This tweak was created as part of Tweak Battles 2015.</string>
+      <key>label</key>
+      <string>Tweak Battles Credits</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>action</key>
+      <string>joshGibsonTwitter:</string>
+      <key>icon</key>
+      <string>/Applications/Preferences.app/Twitter.png</string>
+      <key>label</key>
+      <string>John Gibson (@joshlgibson)</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSStaticTextCell</string>
+      <key>label</key>
+      <string>KaseTheAce, Matteo Piccina, tawhlHD</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSStaticTextCell</string>
+      <key>label</key>
+      <string>JayFreemanBlows, Jon Ware, Magicka, Dr. J</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSStaticTextCell</string>
+      <key>label</key>
+      <string>Mahmood Ma, Andrew Redden</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSStaticTextCell</string>
+      <key>label</key>
+      <string>Conn, Rozersedge, uroboro, brcleverdon</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSStaticTextCell</string>
+      <key>label</key>
+      <string>Shadow Games, dasfalk, Connor Pearson</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSStaticTextCell</string>
+      <key>label</key>
+      <string>Julio Salazar, phlooo, Megachon</string>
+    </dict>
+  </array>
+  <key>title</key>
+  <string>Credits</string>
+</dict>
+</plist>

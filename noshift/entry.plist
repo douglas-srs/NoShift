@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = NoShift;
+	cell = PSLinkCell;
+	detail = NoShiftListController;
+	icon = NoShift.png;
+	isController = 1;
+	label = NoShift;
+    };
+}

@@ -1,0 +1,9 @@
+Package: net.douglassoares.noshift
+Name: NoShift
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Say Goodbye to the Shift Key
+Maintainer: Douglas Soares
+Author: Douglas Soares
+Section: Tweaks
